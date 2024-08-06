@@ -12,7 +12,7 @@ const introdata = {
         third: "Develop functional and intuitive mobile apps.",
     },
     description: "Crafting exceptional web and mobile applications. Proficient in React Native and e-learning solutions. Let's collaborate on your next innovative project.",
-    your_img_url: require("./assets/images/dp2.jpg"),
+    your_img_url: require("./assets/images/download.png"),
 };
 
 const dataabout = {
